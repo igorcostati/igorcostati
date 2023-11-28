@@ -5,7 +5,7 @@
 
 Olá, sou Tech Manager no Grupo Multi. Tenho uma longa jornada no mundo da tecnologia, minha carreira é marcada pela inovação e liderança em ambientes tecnológicos dinâmicos. Por aqui não vai encontrar nada de especial, apenas labs diversos que utilizei para experimentar algumas coisas. 
 
-![Snake animation]([https://raw.githubusercontent.com/igorcostati/igorcostati/blob/output/github-contribution-grid-snake.svg))
+![Snake animation]([https://raw.githubusercontent.com/igorcostati/igorcostati/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **igorcostati/igorcostati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
