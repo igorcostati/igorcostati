@@ -3,4 +3,4 @@
 
 ## Bem-vindo ao meu GitHub!
 
-Olá, sou Tech Manager no Grupo Multi. Tenho uma longa jornada no mundo da tecnologia, minha carreira é marcada pela inovação e liderança em ambientes tecnológicos dinâmicos. Por aqui não vai encontrar nada de especial, apenas labs diversos que utilizei para experimentar algumas coisas. 
+Olá, tenho uma longa jornada no mundo da tecnologia, minha carreira é marcada pela inovação e liderança em ambientes tecnológicos dinâmicos. Por aqui não vai encontrar nada de especial, apenas labs diversos que utilizei para experimentar algumas coisas. 
