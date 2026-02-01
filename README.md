@@ -1,4 +1,4 @@
-# Igor Costa 
+# Igor Filipe Figueiredo Costa 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcostati)](https://www.linkedin.com/in/igorcostati)
 
 ## Bem-vindo ao meu GitHub!
