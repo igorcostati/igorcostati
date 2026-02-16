@@ -1,6 +1,6 @@
 # Igor Filipe Figueiredo Costa
 
-**Belo Horizonte, MG** | [Visite meu LinkedIn](https://www.linkedin.com/in/igorcostati) | [Veja minhas certificações no Credly](https://www.credly.com/users/igor-costa-ti/badges#credly)
+**Belo Horizonte, MG** | <a href="https://www.linkedin.com/in/igorcostati" target="_blank">Visite meu LinkedIn</a> | <a href="https://www.credly.com/users/igor-costa-ti/badges#credly" target="_blank">Veja minhas certificações no Credly</a>
 
 ---
 
@@ -40,9 +40,9 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 
 <div align="center">
 
-[![AWS Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/627256ac-5277-4314-bbc4-dfb1ae1ee7e7/public_url) [![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/aedbb34c-fa4c-4b4c-b898-613c473f783f/public_url) [![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/0fccb033-4c37-41be-8110-3c4e6c7506c8/public_url) [![Azure Data Fundamentals](https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/3cb18e12-ed04-4154-b1f6-bbdb53b0904d/public_url) [![Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/08fe50c7-3b64-4eb2-860e-ed6a398c8985/public_url)
+<a href="https://www.credly.com/badges/627256ac-5277-4314-bbc4-dfb1ae1ee7e7/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate"></a> <a href="https://www.credly.com/badges/aedbb34c-fa4c-4b4c-b898-613c473f783f/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner"></a> <a href="https://www.credly.com/badges/0fccb033-4c37-41be-8110-3c4e6c7506c8/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals"></a> <a href="https://www.credly.com/badges/3cb18e12-ed04-4154-b1f6-bbdb53b0904d/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals"></a> <a href="https://www.credly.com/badges/08fe50c7-3b64-4eb2-860e-ed6a398c8985/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals"></a>
 
-👉 [Ver todas as certificações no Credly](https://www.credly.com/users/igor-costa-ti/badges#credly)
+👉 <a href="https://www.credly.com/users/igor-costa-ti/badges#credly" target="_blank">Ver todas as certificações no Credly</a>
 
 </div>
 
@@ -59,6 +59,13 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 **Backend & Dados:** .NET | Go | Node.js | Java | SQL Server | MySQL | PostgreSQL | SAP S/4HANA | ERP
 
 **Domínios:** E-commerce | Logística | Gateways de pagamento | APIs críticas | Métricas DORA
+
+**🤖 Inteligência Artificial & Automação:**
+- **AWS Bedrock:** Integração com modelos de linguagem (Claude, Llama, Mistral), embeddings, fine-tuning e desenvolvimento de aplicações GenAI
+- **Azure AI:** Azure OpenAI Service, Cognitive Services, Bot Framework e soluções enterprise de IA
+- **Agentes Inteligentes:** Desenvolvimento de agentes autônomos com raciocínio, planejamento e execução de tarefas complexas
+- **Automações & Orquestração:** Expertise em n8n para workflows complexos, integrações multi-sistema, automações de negócio e processos RPA
+- **Modelos & LLMs:** Conhecimento em prompting, RAG (Retrieval-Augmented Generation), fine-tuning e otimização de custos em soluções GenAI
 
 ---
 
@@ -77,6 +84,6 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 Sempre aberto a conversas sobre tecnologia, arquitetura, liderança e inovação.
 
 - **📧 E-mail:** igor.costa@tecnologia-i.com.br
-- **🔗 [LinkedIn](https://www.linkedin.com/in/igorcostati)**
+- **🔗 <a href="https://www.linkedin.com/in/igorcostati" target="_blank">LinkedIn</a>**
 
  
