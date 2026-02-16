@@ -15,16 +15,16 @@ Arquiteto e Líder de Tecnologia com 25+ anos de experiência. Especializado em 
 ### Gerente de Desenvolvimento de Sistemas – Grupo Multilaser | 2021 – 2025
 Gestão de sistemas B2C e B2B, liderança do Programa de Transformação Digital, refatoração de sistemas legados para microserviços na AWS e desenvolvimento de times de engenharia.
 
-### CTO – OBA BOX | 2019 – 2021
+### CTO – Obabox | 2019 – 2021
 Definição de estratégia tecnológica, transformação digital, estruturação de áreas de engenharia e dados, migração para arquitetura cloud-native, implementação de DevOps/SRE e liderança na migração ERP.
 
-### Gerente de Desenvolvimento de Sistemas – OBABOX | 2017 – 2019
+### Gerente de Desenvolvimento de Sistemas – Obabox | 2017 – 2019
 Liderança de times de desenvolvimento de sistemas de e-commerce, logística e fulfillment. Arquitetura escalável para crescimento acelerado (300%+ faturamento), implantação de padrões de engenharia e integrações críticas.
 
-### Coordenador de Desenvolvimento – NEOMERKATO | 2011 – 2017
+### Coordenador de Desenvolvimento – Neomerkato | 2011 – 2017
 Desenvolvimento e sustentação de plataforma White Label de e-commerce, refatoração arquitetural, definição de padrões técnicos e gestão de equipes.
 
-### Desenvolvedor – VZ, NEOMERKATO, ATTPs Informática | 1996 – 2011
+### Desenvolvedor – VZ, Neomerkato, ATTPs Informática | 1996 – 2011
 Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistemas corporativos integrados.
 
 ---
