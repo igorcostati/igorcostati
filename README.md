@@ -40,12 +40,12 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 
 <div align="center">
 
-[![AWS Solutions Architect Associate](https://images.credly.com/size/40x40/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/627256ac-5277-4314-bbc4-dfb1ae1ee7e7/public_url)
-[![AWS Cloud Practitioner](https://images.credly.com/size/40x40/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/aedbb34c-fa4c-4b4c-b898-613c473f783f/public_url)
+[![AWS Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/627256ac-5277-4314-bbc4-dfb1ae1ee7e7/public_url)
+[![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/aedbb34c-fa4c-4b4c-b898-613c473f783f/public_url)
 
-[![Azure Fundamentals](https://images.credly.com/size/40x40/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/0fccb033-4c37-41be-8110-3c4e6c7506c8/public_url)
-[![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/3cb18e12-ed04-4154-b1f6-bbdb53b0904d/public_url)
-[![Azure AI Fundamentals](https://images.credly.com/size/40x40/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/08fe50c7-3b64-4eb2-860e-ed6a398c8985/public_url)
+[![Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/0fccb033-4c37-41be-8110-3c4e6c7506c8/public_url)
+[![Azure Data Fundamentals](https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/3cb18e12-ed04-4154-b1f6-bbdb53b0904d/public_url)
+[![Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/08fe50c7-3b64-4eb2-860e-ed6a398c8985/public_url)
 
 👉 [Ver todas as certificações no Credly](https://www.credly.com/users/igor-costa-ti/badges#credly)
 
