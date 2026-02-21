@@ -56,7 +56,13 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 
 **Cloud & DevOps:** AWS | Azure | Kubernetes | Docker | CI/CD | DevOps | SRE
 
-**Backend & Dados:** .NET | Go | Node.js | Java | SQL Server | MySQL | PostgreSQL | SAP S/4HANA | ERP
+**Metodologias Ágeis:** Scrum | Kanban
+
+**Front-end:** React | Next.js | Vue.js
+
+**Backend & Dados:** .NET | Go | Node.js | Java | SQL Server | MySQL | PostgreSQL
+
+**ERP:** SAP S/4HANA | Protheus | Sankhya
 
 **Domínios:** E-commerce | Logística | Gateways de pagamento | APIs críticas | Métricas DORA
 
