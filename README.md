@@ -40,7 +40,21 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/627256ac-5277-4314-bbc4-dfb1ae1ee7e7/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate"></a> <a href="https://www.credly.com/badges/aedbb34c-fa4c-4b4c-b898-613c473f783f/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner"></a> <a href="https://www.credly.com/badges/0fccb033-4c37-41be-8110-3c4e6c7506c8/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals"></a> <a href="https://www.credly.com/badges/3cb18e12-ed04-4154-b1f6-bbdb53b0904d/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals"></a> <a href="https://www.credly.com/badges/08fe50c7-3b64-4eb2-860e-ed6a398c8985/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/627256ac-5277-4314-bbc4-dfb1ae1ee7e7/public_url" target="_blank">
+<img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="110" height="110">
+</a> 
+<a href="https://www.credly.com/badges/aedbb34c-fa4c-4b4c-b898-613c473f783f/public_url" target="_blank">
+<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="110" height="110">
+</a> 
+<a href="https://www.credly.com/badges/0fccb033-4c37-41be-8110-3c4e6c7506c8/public_url" target="_blank">
+<img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" width="110" height="110">
+</a> 
+<a href="https://www.credly.com/badges/3cb18e12-ed04-4154-b1f6-bbdb53b0904d/public_url" target="_blank">
+<img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals" width="110" height="110">
+</a> 
+<a href="https://www.credly.com/badges/08fe50c7-3b64-4eb2-860e-ed6a398c8985/public_url" target="_blank">
+<img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" width="110" height="110">
+</a>
 
 👉 <a href="https://www.credly.com/users/igor-costa-ti/badges#credly" target="_blank">Ver todas as certificações no Credly</a>
 
@@ -62,7 +76,7 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 
 **Backend & Dados:** .NET | Go | Node.js | Java | SQL Server | MySQL | PostgreSQL
 
-**ERP:** SAP S/4HANA | Protheus | Sankhya
+**ERP:** SAP S/4HANA | Protheus | Sankhya 
 
 **Domínios:** E-commerce | Logística | Gateways de pagamento | APIs críticas | Métricas DORA
 
@@ -76,11 +90,16 @@ Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistema
 </br> 
 </br>
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; align-items: center;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" title=".NET" width="56" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go" width="56" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="56" height="40" /><span>&nbsp;|&nbsp;</span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="56" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" title="Next.js" width="56" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js" width="56" height="40" /><span>&nbsp;|&nbsp;</span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm Chart" title="Helm Chart" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" title=".NET" width="56" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go" width="56" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="56" height="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="56" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" title="Next.js" width="56" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js" width="56" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm Chart" title="Helm Chart" width="40" height="40" /><img src="sap-48.png" alt="SAP" title="SAP" width="40" height="40" />
 
 </div>
+
 
 
 
