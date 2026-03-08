@@ -10,23 +10,17 @@ Arquiteto e Líder de Tecnologia com 25+ anos de experiência. Especializado em 
 
 
 
-## 🏢 Experiência Profissional
+## 🏢 Minha trajetória
 
-### Gerente de Desenvolvimento de Sistemas – Grupo Multilaser | 2021 – 2025
-Gestão de sistemas B2C e B2B, liderança do Programa de Transformação Digital, refatoração de sistemas legados para microserviços na AWS e desenvolvimento de times de engenharia.
+Minha jornada na tecnologia começou como desenvolvedor, trabalhando na construção de plataformas de e-commerce, aplicações corporativas integradas e sistemas governamentais. Foi nesse período que construí minha base em engenharia de software, arquitetura de sistemas e desenvolvimento de aplicações de alta criticidade.
 
-### CTO – Obabox | 2019 – 2021
-Definição de estratégia tecnológica, transformação digital, estruturação de áreas de engenharia e dados, migração para arquitetura cloud-native, implementação de DevOps/SRE e liderança na migração ERP.
+Com o tempo, passei a assumir responsabilidades de liderança técnica, coordenando equipes e participando ativamente da evolução de plataformas de e-commerce em modelo white label. Esse momento marcou uma fase importante de refatorações arquiteturais, definição de padrões técnicos e amadurecimento das práticas de engenharia.
 
-### Gerente de Desenvolvimento de Sistemas – Obabox | 2017 – 2019
-Liderança de times de desenvolvimento de sistemas de e-commerce, logística e fulfillment. Arquitetura escalável para crescimento acelerado (300%+ faturamento), implantação de padrões de engenharia e integrações críticas.
+Em seguida, assumi a liderança de times responsáveis por sistemas de e-commerce, logística e operações. O crescimento acelerado do negócio exigiu a construção de arquiteturas escaláveis, integrações críticas e maior maturidade nos processos de desenvolvimento e entrega de software.
 
-### Coordenador de Desenvolvimento – Neomerkato | 2011 – 2017
-Desenvolvimento e sustentação de plataforma White Label de e-commerce, refatoração arquitetural, definição de padrões técnicos e gestão de equipes.
+Posteriormente tive a oportunidade de atuar como CTO, conduzindo a estratégia tecnológica da empresa. Nesse papel liderei iniciativas de transformação digital, estruturação das áreas de engenharia e dados, adoção de arquitetura cloud-native e implementação de práticas modernas como DevOps e SRE. Também participei da modernização do ecossistema de sistemas, incluindo a integração com SAP S/4HANA.
 
-### Desenvolvedor – VZ, Neomerkato, ATTPs Informática | 1996 – 2011
-Experiência em desenvolvimento de sistemas governamentais, e-commerce e sistemas corporativos integrados.
-
+Mais recentemente, atuei liderando times responsáveis por sistemas B2C e B2B em um grande grupo de tecnologia, participando diretamente de programas de transformação digital. O trabalho envolveu modernização de sistemas legados, adoção de microserviços na AWS e evolução da maturidade das equipes de engenharia.
 
 
 ## 🎓 Formação
