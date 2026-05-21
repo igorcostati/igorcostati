@@ -58,9 +58,9 @@ fi
 
 # Adicione parse_git_branch ao PS1
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[33m\]$(parse_git_branch)\[\033[00m\]\$ '
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[33m\]${GIT_BRANCH}\[\033[00m\]\$ '
 else
-    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w$(parse_git_branch)\$ '
+    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w${GIT_BRANCH}\$ '
 fi
 unset color_prompt force_color_prompt
 
@@ -123,8 +123,29 @@ export NVM_DIR="$HOME/.nvm"
 
  
 parse_git_branch() {
-  git rev-parse --abbrev-ref HEAD 2>/dev/null | sed 's/.*/ (&)/'
+    local branch tag commit
+    branch=$(git symbolic-ref --short -q HEAD 2>/dev/null)
+    if [ -n "$branch" ]; then
+        printf ' (%s)' "$branch"
+        return
+    fi
+
+    # Detached HEAD: prefer nearest tag, fallback to short commit hash.
+    tag=$(git describe --tags --exact-match 2>/dev/null)
+    if [ -n "$tag" ]; then
+        printf ' [%s]' "$tag"
+        return
+    fi
+
+    commit=$(git rev-parse --short HEAD 2>/dev/null) || return
+    printf ' [%s]' "$commit"
 }
+
+update_git_branch_prompt() {
+    GIT_BRANCH="$(parse_git_branch)"
+}
+
+PROMPT_COMMAND="update_git_branch_prompt${PROMPT_COMMAND:+; $PROMPT_COMMAND}"
 
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
@@ -136,4 +157,4 @@ alias devenv='"/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7
 
 # Configurações do Prompt
 export PROMPT_DIRTRIM=2 
-export PS1="\[\e[32m\]\u@\h \[\e[94m\]\w\[\e[33m\]\$(parse_git_branch)\[\e[m\]\n\[\e[32m\]❯\[\e[m\] "
+export PS1='\[\e[32m\]\u@\h \[\e[94m\]\w\[\e[33m\]${GIT_BRANCH}\[\e[m\]\n\[\e[32m\]❯\[\e[m\] '
